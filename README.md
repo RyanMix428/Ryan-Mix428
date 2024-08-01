@@ -7,6 +7,6 @@ Meu nome é Ryan
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo desse espaço para organização e para a compartilhação dos meus projetos
 
-- ### Você provavelmente não conseguiráentrar em contato comigo pois estarei ocupado 😿
+- ### Você provavelmente não conseguirá entrar em contato comigo pois estarei ocupado 😿
 
 ![](https://media.tenor.com/3KPX3jnBoIYAAAAi/bats-cuddling-couple.gif)
