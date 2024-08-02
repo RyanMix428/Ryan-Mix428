@@ -1,5 +1,5 @@
-# Olá
-Boas Vindas ao meu perfil <3 
+# Olá ✋
+Boas Vindas ao meu perfil 💜
 
 Meu nome é Ryan
 
